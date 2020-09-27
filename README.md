@@ -35,16 +35,6 @@ Build model on train set and asses performance on test set
 •	AUC of ROC is common performance metric
 o	True positive vs. false positive rates	
 	
-Types of models for binary classification:
-
-•	Logistic regression
-•	Random Forest 
-•	Gradient Boosted Trees
-•	Support vector Machine
-•	Many more
-
-
-2. Introduce the Data 
 
 Task:  Given the regular checkup report of patients and predict whether there is any Heart disease or not
 
